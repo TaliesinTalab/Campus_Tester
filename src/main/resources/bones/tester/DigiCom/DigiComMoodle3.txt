@@ -1,0 +1,15 @@
+The link layer is responsible for handling the communication between physically adjacent nodes (e.g. clients, router).;true
+In order to resolve the IP address out of a MAC address the Address Resolution Protocol (ARP) is used.;false
+Link layer protocols provide a reliable end-to-end transfer across the network.;false
+When a client changes to another subnet the MAC address stays the same.;true
+Link layer protocols are specifically designed to work on the underlying physical transmission medium.;true
+The switch table within a switch is self-learning during operation.;true
+The switch table can only have one entry per outgoing port.;false);
+In case no entry in the switch table matches for a MAC address the switch drops the frame.;false
+When sending a datagram to a different subnet the client address the router on the link layer.;true
+During a transmission between two subnets the link layer addressing (source & destination address) does not change.;false
+During a transmission between two subnets the network layer addressing (source & destination address) does not change.;true
+The switch needs to be addressed on the link layer in case it connects the client with the next-hop router.;false
+A client with multiple network interfaces (e.g. wireless, wired, bluetooth) can have multiple MAC addresses.;true
+The link layer is implemented in routers.;true
+When connecting two network layer nodes (e.g. router, client) multiple switches can be used one after the other.;true

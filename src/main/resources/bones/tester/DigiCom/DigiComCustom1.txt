@@ -1,0 +1,25 @@
+Store-and-Forwarding forwards a packet, even if it has errors.;false
+Store-and-Forwarding ensures that only error-free packets are forwarded.;true
+Packet Switching sends all packets on the same path to their destination.;false
+Packet dropping is a consequence of the buffer size of a router being overshot.;true
+When calculating the packet transmission delay, R / L is used.;false
+Circuit switching ensures a connection is reserved, even it is idle.;true
+Using circuit switching on a 1Gb/s network allows for 12 users at 100Mb/s to be active at the same time.;false
+Tier 1 ISPs can connect to each other using IXPs.;true
+Regional ISPs offer to connect access networks to IXPs.;false
+The queuing delay in a router can vary heavily depending on circumstances.;true
+Decreasing the length of a physical link decreases the transmission delay.;false
+Increasing the length of a physical link decreases the propagation delay.;false
+Propagation delay is calculated using d / s, with d being distance and s the router's processing ability.;false
+If the value for traffic intensity L*a / R is greater than 1, then the average delay is infinite.;true
+The average throughput is limited by the sender of the packets.;false
+When speaking of the internet, conventionally only 5 layers are used.;true
+A switch is a layer 3 device.;false
+The ISO/OSI reference model defines 7 layers.;true
+Radio used guided media for transmission.;false
+Forwarding is done on a local level, unlike routing which is done on a global level.;true
+The TCP/IP model describes 7 layers.;false
+The Data Link layer converts datagrams into segments.;false
+The Presentation Layer is the 3rd layer.;false
+UDP functions on the 4th layer.;true
+TCP only allows half-duplex communication.;false

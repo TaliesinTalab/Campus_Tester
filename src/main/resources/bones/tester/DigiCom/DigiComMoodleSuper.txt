@@ -1,0 +1,60 @@
+Using 'store and forward' packet processing on a route only starts after the full packet is received.;true
+WLAN is using a guided media for transmission.;false
+Client and server are part of the network core.;false
+A protocol is fully described by the format and order of messages and expected actions.;true
+The internet is a network of networks.;true
+Routing can only be done when the forewarning is done.;false
+Various multiplexing technologies (e.g. TDM, FDM) can be combined.;true
+Packet switched networks offer guaranteed resources to a network.;false
+The transmission delay of a packet increases if the link length.;false
+If the arrival rate of packets on a router is  faster then the processing rate the packet is queued.;true
+An Internet Exchange Point (IXP) connects access networks to their ISPs.;false
+Peering is the direct exchange between two ISPs.;true
+Tier 1 ISPs are providing wide range connectivity (e.g. undersea cables) to regional ISPs.;true
+Wide-area cellular networks are called access networks.;true
+The local forwarding table in a router contains the full path through the network to each destination.;false
+The propagation delay increases when the physical length of a link is increased.;true
+The transmission delay of a router is dependent on the current utilization of the device.;false
+The queuing delay of a router is constant over time.;false
+The processing delay of a router is usually rather small as compared to other types of delay within a transmission.;true
+Due to the layering concept introducing new application layer protocols require changes in the network core.;false
+In the IP datagram header the destination address is the address of the next physical hop of the data transmission.;false
+Source and destination address are part of the IP datagram header.;true
+Subnet masks other then /8, /16, /24 are only possible with classless inter domain routing (CIDR).;true
+10.5.3.0/24 is within the 10.5.0.0/16 subnet.;true
+An IPv4 network with a /24 subnet mask allows up to 2^8 client addresses.;false
+For up to 300 clients within one subnet a network with a subnet mask of /23 or lower is required.;true
+In order to get the MAC (medium access control) address of a device the ARP (address resolution protocol) is used.;true
+In case a packet needs to be transferred to a different subnet a router is needed and addressed as the next hop in the link layer header.;true
+VLANs allow a logical separation of data transfer within a shared physical network.;true
+Data transfer between two clients is possible when they are connected to the same switch even if they are assigned to different VLANs.;false
+The link layer is responsible for handling the communication between physically adjacent nodes (e.g. clients, router).;true
+In order to resolve the IP address out of a MAC address the Address Resolution Protocol (ARP) is used.;false
+Link layer protocols provide a reliable end-to-end transfer across the network.;false
+When a client changes to another subnet the MAC address stays the same.;true
+Link layer protocols are specifically designed to work on the underlying physical transmission medium.;true
+The switch table within a switch is self-learning during operation.;true
+The switch table can only have one entry per outgoing port.;false);
+In case no entry in the switch table matches for a MAC address the switch drops the frame.;false
+When sending a datagram to a different subnet the client address the router on the link layer.;true
+During a transmission between two subnets the link layer addressing (source & destination address) does not change.;false
+During a transmission between two subnets the network layer addressing (source & destination address) does not change.;true
+The switch needs to be addressed on the link layer in case it connects the client with the next-hop router.;false
+A client with multiple network interfaces (e.g. wireless, wired, bluetooth) can have multiple MAC addresses.;true
+The link layer is implemented in routers.;true
+When connecting two network layer nodes (e.g. router, client) multiple switches can be used one after the other.;true
+The same routing algorithms are applied for intra-As and inter-AS routing.;false
+An autonomous system (AS) consists of multiple routers operated by the same network provider.;true
+OSPF is a distance vector routing protocol.;false
+Using BGP the forwarding tables can contain intra-AS as well as inter-AS destinations.;true
+Routing protocols exchange information on the control plane.;true
+Dijkstra algorithm requires full knowledge about the nodes, edges, and costs to be applied.;true
+In link-state-routing algorithms the information exchange only happens between neighbours.;false
+After convergence of a distance vector routing, the nodes do not know the full paths to each of the network nodes.;true
+The distance-vector-routing algorithm calculates the shortest path based on full knowledge about the network topology.;false
+Using distance-vector-routing, every router broadcasts its distance vector after an update.;true
+One of the main reasons NAT (Network Address Translation) was invented is the shortage of IPv4 addresses.;true
+The usage of NAT (Network Address Translation) is a violation of the end-to-end principle of the network layer.;true
+NAT (Network Address Translation) replaces the destination port and IP of an outgoing packet.;false
+DHCP (Dynamic Host Configuration Protocol) provides information to configure the link layer of the client.;false
+Message exchange of DHCP (Dynamic Host Configuration Protocol) mainly uses broadcasts.;true

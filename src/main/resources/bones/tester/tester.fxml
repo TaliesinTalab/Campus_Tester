@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="bones.tester.Controller">
+   <top>
+      <VBox prefHeight="113.0" prefWidth="640.0" BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar>
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#shutDown" text="Close" />
+                  </items>
+                </Menu>
+                  <Menu mnemonicParsing="false" text="Test Settings">
+                    <items>
+                      <MenuItem mnemonicParsing="false" onAction="#toggleShowCorrectAnswer" text="Toggle Correct Answer" />
+                        <MenuItem mnemonicParsing="false" onAction="#toggleShuffleQuestions" text="Toggle Test Shuffle" />
+                    </items>
+                  </Menu>
+                <Menu mnemonicParsing="false" text="DigiCom Tests">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#runDigiCom1" text="DigiComMoodle1" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiCom2" text="DigiComMoodle2" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiCom3" text="DigiComMoodle3" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiCom4" text="DigiComMoodle4" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiComSuper" text="DigiComMoodleSuper" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiComCustom1" text="DigiComCustom1" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiComCustom2" text="DigiComCustom2" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiComCustom3" text="DigiComCustom3" />
+                        <MenuItem mnemonicParsing="false" onAction="#runDigiComCustomSuper" text="DigiComCustomSuper" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+            <HBox alignment="TOP_CENTER" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="108.0" prefWidth="640.0">
+               <children>
+                  <Label fx:id="currentTest" text="Current Test" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+   <bottom>
+      <HBox prefHeight="22.0" prefWidth="640.0" spacing="8.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Current Score: " />
+            <Label fx:id="currentScore" prefWidth="75.0" text="0/0" />
+            <Region prefHeight="22.0" prefWidth="411.0" />
+            <Label fx:id="currentQuestion" alignment="CENTER_RIGHT" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="50.0" text="0/0" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+   </bottom>
+   <center>
+      <VBox prefHeight="335.0" prefWidth="640.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="TOP_CENTER" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="108.0" prefWidth="640.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <Label fx:id="questionText" maxWidth="620.0" text="Questions go here" wrapText="true" />
+               </children>
+            </HBox>
+            <HBox prefHeight="65.0" prefWidth="640.0">
+               <children>
+                  <Region prefHeight="200.0" prefWidth="240.0" />
+                  <Button mnemonicParsing="false" onAction="#trueButtonClick" prefWidth="60.0" text="True" HBox.hgrow="ALWAYS" />
+                  <Region prefHeight="100.0" prefWidth="40.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#falseButtonClick" prefWidth="60.0" text="False" HBox.hgrow="ALWAYS" />
+               </children>
+            </HBox>
+            <VBox prefHeight="139.0" prefWidth="640.0">
+               <children>
+                  <HBox prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <Region prefHeight="200.0" prefWidth="290.0" />
+                        <Button maxWidth="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#nextButtonClick" prefWidth="60.0" text="Skip" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="TOP_CENTER" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="82.0" prefWidth="640.0">
+                     <children>
+                        <Label fx:id="answerText" maxWidth="620.0" wrapText="true" HBox.hgrow="ALWAYS" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

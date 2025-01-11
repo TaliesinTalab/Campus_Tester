@@ -1,0 +1,30 @@
+'FDM' allows for multiple transmissions to run at the same time.;true
+'TDM' allows for efficient use for multiple transmissions at the same time.;false
+The physical layer is responsible for encapsulating frames into bits for transmission.;true
+Encapsulation occurs only at the application layer.;false
+Encapsulation ensures that data is properly packaged and understood by each layer at the receiving end.;true
+Ethernet uses guided media.;true
+A MAC address refers to a Macintosh computer.;false
+If ten PCs are connected to the same switch, but the first five are assigned to VLAN 10 and the other five are assigned to VLAN 20, then they have been divided into two different subnets.;true
+A 'ping' sends an ICMP Echo request.;true
+Compared to IPv4, IPv6 streamlines routing decisions and focuses on scalability.;true
+IPv4 streamlines routing decisions more than IPv6.;false
+When sending a message through the Network layer, an IP header is always attached.;true
+The 'version' field in an IP-header indicates the OS-version.;false
+The TTL field in the IP header acts as a safeguard against infinite loops.;true
+Routing happens at Layer 3 of the OSI model.;true
+Forwarding happens at Layer 2 of the OSI model.;false
+Forwarding can happen on Layer 3 or 2 depending on context.;true
+An IP address is classless when it uses DHCP notation.;false
+Using CIDR allows for less wasteful subnetting.;true
+A new PC without an IP address sends out a broadcast message in order to discover any DHCP servers on the local network.;true
+A client can DHCPREQUEST an IP not offered by a DHCP server.;true
+If a client requests an invalid IP from a DHCP server, it responds with DHCPNAK.;true
+Given a packet for the destination IP 192.168.1.130, a router following longest prefix matching would choose 192.168.1.0/24 255.255.255.0 over 192.168.1.128/25 255.255.255.128, as the next-hop.;false
+The end-to-end argument suggests that functions like error checking should be done at the end-host, not in the middle of the network (routers, switches).;true
+NAT is useful due to the current IPv6 shortage.;false
+A MAC address is 48 bits long.;true
+Two PCs would have the same MAC address if they are made by the same manufacturer.;false
+If a host does not know the destinations MAC-address on the LAN, but  knows the IP address, then it broadcasts an ARP request.;true
+ARP operates only within a single subnet but switches can act as intermediaries between subnets.;false
+ARP is a layer 2 protocol, but it plays a supporting role for layer 3 communication.;true

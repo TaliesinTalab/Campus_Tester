@@ -1,0 +1,15 @@
+The propagation delay increases when the physical length of a link is increased.;true
+The transmission delay of a router is dependent on the current utilization of the device.;false
+The queuing delay of a router is constant over time.;false
+The processing delay of a router is usually rather small as compared to other types of delay within a transmission.;true
+Due to the layering concept introducing new application layer protocols require changes in the network core.;false
+In the IP datagram header the destination address is the address of the next physical hop of the data transmission.;false
+Source and destination address are part of the IP datagram header.;true
+Subnet masks other then /8, /16, /24 are only possible with classless inter domain routing (CIDR).;true
+10.5.3.0/24 is within the 10.5.0.0/16 subnet.;true
+An IPv4 network with a /24 subnet mask allows up to 2^8 client addresses.;false
+For up to 300 clients within one subnet a network with a subnet mask of /23 or lower is required.;true
+In order to get the MAC (medium access control) address of a device the ARP (address resolution protocol) is used.;true
+In case a packet needs to be transferred to a different subnet a router is needed and addressed as the next hop in the link layer header.;true
+VLANs allow a logical separation of data transfer within a shared physical network.;true
+Data transfer between two clients is possible when they are connected to the same switch even if they are assigned to different VLANs.;false

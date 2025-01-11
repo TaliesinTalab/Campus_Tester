@@ -1,0 +1,15 @@
+The same routing algorithms are applied for intra-As and inter-AS routing.;false
+An autonomous system (AS) consists of multiple routers operated by the same network provider.;true
+OSPF is a distance vector routing protocol.;false
+Using BGP the forwarding tables can contain intra-AS as well as inter-AS destinations.;true
+Routing protocols exchange information on the control plane.;true
+Dijkstra algorithm requires full knowledge about the nodes, edges, and costs to be applied.;true
+In link-state-routing algorithms the information exchange only happens between neighbours.;false
+After convergence of a distance vector routing, the nodes do not know the full paths to each of the network nodes.;true
+The distance-vector-routing algorithm calculates the shortest path based on full knowledge about the network topology.;false
+Using distance-vector-routing, every router broadcasts its distance vector after an update.;true
+One of the main reasons NAT (Network Address Translation) was invented is the shortage of IPv4 addresses.;true
+The usage of NAT (Network Address Translation) is a violation of the end-to-end principle of the network layer.;true
+NAT (Network Address Translation) replaces the destination port and IP of an outgoing packet.;false
+DHCP (Dynamic Host Configuration Protocol) provides information to configure the link layer of the client.;false
+Message exchange of DHCP (Dynamic Host Configuration Protocol) mainly uses broadcasts.;true

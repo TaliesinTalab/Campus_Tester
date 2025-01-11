@@ -1,0 +1,13 @@
+On the link layer hosts and routers act as nodes.;true
+For the purposes of the 2nd layer, switches act as nodes.;false
+The link layer has responsibility of transferring datagram from one node to physically adjacent node over a link.;true
+Datagrams can be transferred by different link protocols (first WI-FI, then Ethernet.;true
+In the frame header, the TTL is added to its field.;false
+The link layer uses MAC addresses to navigate globally.;false
+FF-FF-FF-FF-FF-FF is the broadcast MAC address.;true
+A router will broadcast all ARP requests it receives.;false
+Modern ethernet uses a bus-based topology.;false
+Ethernet is unreliable and connectionless.;true
+Switches are transparent to higher level protocols.;true
+Each link to a switch is its own collision domain.;true
+A switch will always flood when an ARP request arrives.;false

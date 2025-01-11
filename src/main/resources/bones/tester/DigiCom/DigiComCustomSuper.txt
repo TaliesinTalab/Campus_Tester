@@ -1,0 +1,68 @@
+Store-and-Forwarding forwards a packet, even if it has errors.;false
+Store-and-Forwarding ensures that only error-free packets are forwarded.;true
+Packet Switching sends all packets on the same path to their destination.;false
+Packet dropping is a consequence of the buffer size of a router being overshot.;true
+When calculating the packet transmission delay, R / L is used.;false
+Circuit switching ensures a connection is reserved, even it is idle.;true
+Using circuit switching on a 1Gb/s network allows for 12 users at 100Mb/s to be active at the same time.;false
+Tier 1 ISPs can connect to each other using IXPs.;true
+Regional ISPs offer to connect access networks to IXPs.;false
+The queuing delay in a router can vary heavily depending on circumstances.;true
+Decreasing the length of a physical link decreases the transmission delay.;false
+Increasing the length of a physical link decreases the propagation delay.;false
+Propagation delay is calculated using d / s, with d being distance and s the router's processing ability.;false
+If the value for traffic intensity L*a / R is greater than 1, then the average delay is infinite.;true
+The average throughput is limited by the sender of the packets.;false
+When speaking of the internet, conventionally only 5 layers are used.;true
+A switch is a layer 3 device.;false
+The ISO/OSI reference model defines 7 layers.;true
+Radio used guided media for transmission.;false
+Forwarding is done on a local level, unlike routing which is done on a global level.;true
+The TCP/IP model describes 7 layers.;false
+The Data Link layer converts datagrams into segments.;false
+The Presentation Layer is the 3rd layer.;false
+UDP functions on the 4th layer.;true
+TCP only allows half-duplex communication.;false
+'FDM' allows for multiple transmissions to run at the same time.;true
+'TDM' allows for efficient use for multiple transmissions at the same time.;false
+The physical layer is responsible for encapsulating frames into bits for transmission.;true
+Encapsulation occurs only at the application layer.;false
+Encapsulation ensures that data is properly packaged and understood by each layer at the receiving end.;true
+Ethernet uses guided media.;true
+A MAC address refers to a Macintosh computer.;false
+If ten PCs are connected to the same switch, but the first five are assigned to VLAN 10 and the other five are assigned to VLAN 20, then they have been divided into two different subnets.;true
+A 'ping' sends an ICMP Echo request.;true
+Compared to IPv4, IPv6 streamlines routing decisions and focuses on scalability.;true
+IPv4 streamlines routing decisions more than IPv6.;false
+When sending a message through the Network layer, an IP header is always attached.;true
+The 'version' field in an IP-header indicates the OS-version.;false
+The TTL field in the IP header acts as a safeguard against infinite loops.;true
+Routing happens at Layer 3 of the OSI model.;true
+Forwarding happens at Layer 2 of the OSI model.;false
+Forwarding can happen on Layer 3 or 2 depending on context.;true
+An IP address is classless when it uses DHCP notation.;false
+Using CIDR allows for less wasteful subnetting.;true
+A new PC without an IP address sends out a broadcast message in order to discover any DHCP servers on the local network.;true
+A client can DHCPREQUEST an IP not offered by a DHCP server.;true
+If a client requests an invalid IP from a DHCP server, it responds with DHCPNAK.;true
+Given a packet for the destination IP 192.168.1.130, a router following longest prefix matching would choose 192.168.1.0/24 255.255.255.0 over 192.168.1.128/25 255.255.255.128, as the next-hop.;false
+The end-to-end argument suggests that functions like error checking should be done at the end-host, not in the middle of the network (routers, switches).;true
+NAT is useful due to the current IPv6 shortage.;false
+A MAC address is 48 bits long.;true
+Two PCs would have the same MAC address if they are made by the same manufacturer.;false
+If a host does not know the destinations MAC-address on the LAN, but  knows the IP address, then it broadcasts an ARP request.;true
+ARP operates only within a single subnet but switches can act as intermediaries between subnets.;false
+ARP is a layer 2 protocol, but it plays a supporting role for layer 3 communication.;true
+On the link layer hosts and routers act as nodes.;true
+For the purposes of the 2nd layer, switches act as nodes.;false
+link layer has responsibility of transferring datagram from one node to physically adjacent node over a link.;true
+Datagrams can be transferred by different link protocols (first WI-FI, then Ethernet.;true
+In the frame header, the TTL is added to its field.;false
+The link layer uses MAC addresses to navigate globally.;false
+FF-FF-FF-FF-FF-FF is the broadcast MAC address.;true
+A router will broadcast all ARP requests it receives.;false
+Modern ethernet uses a bus-based topology.;false
+Ethernet is unreliable and connectionless.;true
+Switches are transparent to higher level protocols.;true
+Each link to a switch is its own collision domain.;true
+A switch will always flood when an ARP request arrives.;false
