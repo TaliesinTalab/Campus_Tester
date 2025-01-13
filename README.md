@@ -2,7 +2,7 @@
 
 This program is meant as a studying aide and should not be used without the source material (e.g. lecture notes).
 
-While everyone is welcome to use this however they want, including editing it, I only ask that you include credit.
+Everyone is welcome to use this however they want, including editing and modifying it.
 
 As a note, some of the questions included are in German. Cut me some slack if you find some errors, I'm not a native speaker.
 ***
