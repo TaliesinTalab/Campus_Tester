@@ -1,0 +1,17 @@
+"Ähnlichkeitseffekt" ist ein Beispiel für unbewusste Vorurteile.;true
+Stereotypen stellen Stärken in der Teamarbeit dar.;false
+Das stärken der DEIB (Diversity, Equity, Inclusion, Belonging) Prinzipien schwächt die Teamarbeit.;false
+Falls sich Teammitglieder aus Angst negativer Konsequenzen nicht äußern, ist das ein Zeichen an Mangel an Psychological Safety.;true
+Reflexion ist eine gute Strategie um unbewusste Vorurteile zu vermeiden.;true
+Retrospektiven sind nur als Werkzeug bei Problemen im oder nach einem Projekt einzusetzen.;false
+Eine gute Kommunikationsbasis ist eine Grundlage für erfolgreiche Retrospektiven.;true
+Retrospektiven sorgen für eine gute Moderation und benötigen wenig Zeit.;false
+Die erste Phase der Retrospektive nach Klaus Leopold beschreibt genau welche Themen im Fokus stehen.;true
+In der zweiten Phase der Retrospektive nach Klaus Leopold werden Fakten und Bewertungen gesammelt.;false
+In der zweiten Phase der Retrospektive nach Klaus Leopold werden keine Lösungsansätze gesammelt.;true
+Das Ziel der vierten Phase der Retrospektive nach Klaus Leopold werden Schuldige gefunden / beschrieben.;false
+Die der vierten Phase der Retrospektive nach Klaus Leopold ist der Fokus Probleme zu verstehen, ohne Lösungsansätze anzubieten.;true
+Erst in der sechsten Phase der Retrospektive nach Klaus Leopold werden Lösungen vorgeschlagen und zukünftige Schritte beschlossen.;false
+Die sechste Phase der Retrospektive nach Klaus Leopold ist ein Abschluss des Meetings inklusive individuelles Feedbacks.;true
+Reflexionen haben nicht das lösungsorientierte Denken als Ziel.;false
+Die Selbstreflexion und Fremdreflexion gelten beide als Reflexionstechniken.;true

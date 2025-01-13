@@ -22,9 +22,8 @@ public class Controller {
     private Label currentScore;
     @FXML
     private Label currentQuestion;
-
-    private boolean showCorrectAnswer = false;
-    private boolean shuffleQuestions = false;
+    private boolean showCorrectAnswer = true;
+    private boolean shuffleQuestions = true;
     private List<Question> questions = new ArrayList<>();
     private int currentQuestionIndex = 0;
     private int score = 0;
@@ -78,6 +77,36 @@ public class Controller {
     private void runDigiComCustomSuper() {
         runTest(9);
         currentTest.setText("Digital Communications Super Custom Test");
+    }
+    @FXML
+    private void runTeamCustom1() {
+        runTest(10);
+        currentTest.setText("Teamarbeit Test | Slides 1-20");
+    }
+    @FXML
+    private void runTeamCustom2() {
+        runTest(11);
+        currentTest.setText("Teamarbeit Test | Slides 21-40");
+    }
+    @FXML
+    private void runTeamCustom3() {
+        runTest(12);
+        currentTest.setText("Teamarbeit Test | Slides 41-60");
+    }
+    @FXML
+    private void runTeamCustom4() {
+        runTest(13);
+        currentTest.setText("Teamarbeit Test | Slides 61-80");
+    }
+    @FXML
+    private void runTeamCustom5() {
+        runTest(14);
+        currentTest.setText("Teamarbeit Test | Slides 81-100");
+    }
+    @FXML
+    private void runTeamSuper() {
+        runTest(15);
+        currentTest.setText("Teamarbeit Test | Slides 1-100");
     }
     @FXML
     private void toggleShowCorrectAnswer() {
@@ -180,9 +209,13 @@ public class Controller {
         if (i == 7) loadQuestions("DigiCom/DigiComCustom2");
         if (i == 8) loadQuestions("DigiCom/DigiComCustom3");
         if (i == 9) loadQuestions("DigiCom/DigiComCustomSuper");
+        if (i == 10) loadQuestions("Teamarbeit/TeamCustom1");
+        if (i == 11) loadQuestions("Teamarbeit/TeamCustom2");
+        if (i == 12) loadQuestions("Teamarbeit/TeamCustom3");
+        if (i == 13) loadQuestions("Teamarbeit/TeamCustom4");
+        if (i == 14) loadQuestions("Teamarbeit/TeamCustom5");
+        if (i == 15) loadQuestions("Teamarbeit/TeamSuper");
 
         showQuestion();
     }
-
-
 }

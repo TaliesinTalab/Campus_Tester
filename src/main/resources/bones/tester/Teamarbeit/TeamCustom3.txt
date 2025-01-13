@@ -1,0 +1,29 @@
+Ein Beispiel für laterale Führung ist ein Gruppensprecher.;true
+Folgende Prinzipien sind notwendig für laterale Führung: Expertenkompetenz, Glaubwürdigkeit, Notwendigkeit, Wertschätzung.;false
+In der agilen Führung steht die Coach-Rolle im Vordergrund.;true
+In der agilen Führung sind die Teams nicht selbstorganisiert, daher gibt es eine Änderung der Führungsaufgaben.;false
+In der agilen Führung ist es die Aufgabe der Führungskraft Teammitglieder zu unterstützen und Struktur zu schaffen.;true
+In der Unfreezing-Phase des 3-Phasen Modells nach Lewin wird die bestehende Situation unverändert beibehalten, ohne Vorbereitungen auf eine geplante Veränderung.;false
+In der Moving-Phase des 3-Phasen Modells nach Lewin wird der Übergang zum neuen Zustand durch Maßnahmen wie Coaching begleitet.;true
+Das Ziel der Freezing-Phase des 3-Phasen Modells nach Lewin ist den veränderten Zustand als "Normalzustand" zu verinnerlichen.;true
+Im "Tal der Tränen" Modell nach Lewin sind folgende Emotionen zu finden: Sorge, Angst, Wut, Neugier.;true
+Im "Tal der Tränen" Modell nach Lewin sind folgende Emotionen zu finden: Schock, Frustration, Zuversicht, Trauer.;true
+Widerstand bei Veränderungen kann passieren, wenn Betroffene Ziele und Hintergründe gut verstanden haben.;false
+Widerstand bei Veränderungen kann passieren, wenn Betroffene keine positive Konsequenz für sich selbst sehen.;true
+Einer der Grundsätze des Widerstands lautet "Es gibt Veränderung ohne Widerstand!".;false
+Nichtbeachtung von Widerstand bei Veränderungen kann zu Blockaden führen.;true
+Die soziokratische Kreisorganisation ist heterarchisch aufgebaut.;false
+In der soziokratischen Kreisorganisation werden Kreise durch Dreiecke dargestellt.;true
+In der Soziokratie spielt Konsent nur eine Rolle im Topkreis (z.B. Aufsichtsrat).;false
+Ein Wert der Soziokratie ist die Gleichwertigkeit aller Beteiligten.;true
+Ein Wert der Soziokratie ist der Subsidiaritätsprinzip: Entscheidungen sollen möglichst von der obersten Ebene ausgehen.;false
+Gehalts-Offenlegung ist eine Beispiel wirtschaftlicher Transparenz in der Soziokratie.;true
+Die Widerstandsabfrage ist eine einfache Technik zur Konsens-Findung.;false
+In der Widerstandsabfrage bewerten Teilnehmer ihren Widerstand gegen eine Situation auf einer Skala zwischen 0 bis 10.;true
+Hinter jedem Konflikt stecken Bedürfnisse, die man zur Seite legen muss, um das Problem zu lösen.;false
+Mediation ist ein Weg mit Konflikten umzugehen. Statt Schuldzuweisung, geht es darum die Wurzel des Problems zu finden.;true
+Zielkonflikte (Qualität vs Kosten) ist eine Konfliktursache auf der Beziehungsebene.;false
+Ein Wertekonflikt entsteht, wenn unterschiedliche persönliche Werte gegeneinander stoßen.;true
+In der Mediation, geht es eine momentane und kurzfristige Lösung zu finden.;false
+Während der Mediation, sollen Mediator*innen sowohl neutral, als auch allparteilich sein.;true
+Im Drama Dreieck, kommunizieren Täter und Opfer direkt ohne Drittperson miteinander.;false

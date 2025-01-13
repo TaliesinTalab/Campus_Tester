@@ -1,0 +1,30 @@
+Durch "'T-förmige' Mitarbeiter-Qualifikation" ist ein Team von Spezialisten geführt von eine/n Generalist*in gemeint.;false
+Durch "'T-förmige' Mitarbeiter-Qualifikation" ist gefragt, dass man Spezialist in 1-2 Fachgebieten sei, aber auch Generalist genug, um andere Fachgebieter zu verstehen.;true
+Ein Team ist eine Gruppe von Individuen, die wechselseitig voneinander unabhängig sind, und für das Erreichen enes Ziels verantwortlich sind.;false
+In der Teamentwicklungsphase "Forming" bestehen schon akzeptierte "Spielregeln".;false
+In der Teamentwicklungsphase "Forming" beginnen Teammitglieder einander "abzutasten".;true
+In der Teamentwicklungsphase "Forming" werden Rangordnung bestimmt und Grenzen gezogen.;false
+In der Teamentwicklungsphase "Storming" werden Rangordnung bestimmt und Grenzen gezogen.;true
+In der Teamentwicklungsphase "Norming" werden von allen akzeptierte "Spielregeln" erstellt.;true
+In der Teamentwicklungsphase "Performing" wird auf die Arbeit fokussiert. Persönliche Probleme untereinander haben hier Nachrang.;true
+In der Teamentwicklungsphase "Norming" wurde die Rangordnung noch nicht bestimmt.;false
+In der Teamentwicklungsphase "Adjourning" wird das Team aufgelöst und die Mitglieder werden neue Aufgaben/Teams zugeteilt.;true
+Zu oft das Team aufzulösen und zusammenstellen, kann dazu führen, dass Teams nie wirklich in die "Performing" Phase kommen.;true
+In agilen Organisationen arbeitet man oft mit stabilen Projekten mit wechselnden Teams.;false
+Auch stabile Teams gehen durch die "Adjourning" Teamentwicklungsphase, während sie einen neuen Projekt beginnen.;false
+Team-Building ist immer ein Prozess mit einzelner Phasen.;false
+Alle Teammitglieder müssen sich an der Teamentwicklungsmaßnahme beteiligen.;true
+Die Phasen im Team-Building lauten in Reihenfolge: Einleitungsphase, Diagnosephase, Interventionsphase, und Evaluationsphase.;true
+Die Phasen im Team-Building lauten in Reihenfolge: Besprechungsphase, Diagnosephase, Evaluationsphase, und Interventionsphase.;false
+Laut dem Ansatz von Belbin, gibt es drei Kategorien mit je drei Rollen.;true
+Laut dem Ansatz von Belbin, sind die wissensorientierte Rollen die wichtigsten im agilen Team.;false
+Laut dem Ansatz von Belbin, ist die Teamarbeit*in Rolle handlungsorientiert.;false
+Laut dem Ansatz von Belbin, sind die Perfektionist*in und Spezialist*in Rolle in der selben Kategorie.;false
+Laut dem Ansatz von Belbin, sollen alle 10 Rollen im idealen Team gefüllt sein.;false
+Laut dem Ansatz von Belbin, können Teammitglieder mehr als eine Rolle erfüllen.;true
+Laut dem Ansatz von Belbin, kann vorhergesagt werden, welche Rollen für ein Teammitglied nicht geeignet sind.;true
+Teamkultur lässt sich zwar nicht beobachten, aber ändern.;false
+Teamkultur ist ein gemeinsames Gedächtnis.;true
+Das tägliche Verhalten gehört zur obersten Ebene der Teamkultur.;true
+Unausgesprochene Annahmen und Überzeugungen gehören zur mittleren Ebene der Teamkultur.;false
+Praktiken können das bilden einer gesunden Teamkultur unterstützen (z.B. gemeinsames frühstüken).;true

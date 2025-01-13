@@ -40,6 +40,16 @@
                         <MenuItem mnemonicParsing="false" onAction="#runDigiComCustomSuper" text="DigiComCustomSuper" />
                   </items>
                 </Menu>
+                  <Menu mnemonicParsing="false" text="Teamarbeit Tests">
+                    <items>
+                      <MenuItem mnemonicParsing="false" onAction="#runTeamCustom1" text="Teamarbeit 1-20" />
+                        <MenuItem mnemonicParsing="false" onAction="#runTeamCustom2" text="Teamarbeit 21-40" />
+                        <MenuItem mnemonicParsing="false" onAction="#runTeamCustom3" text="Teamarbeit 41-60" />
+                        <MenuItem mnemonicParsing="false" onAction="#runTeamCustom4" text="Teamarbeit 61-80" />
+                        <MenuItem mnemonicParsing="false" onAction="#runTeamCustom5" text="Teamarbeit 81-100" />
+                        <MenuItem mnemonicParsing="false" onAction="#runTeamSuper" text="Teamarbeit 1-100" />
+                    </items>
+                  </Menu>
               </menus>
             </MenuBar>
             <HBox alignment="TOP_CENTER" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="108.0" prefWidth="640.0">

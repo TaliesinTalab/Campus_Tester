@@ -1,0 +1,134 @@
+Durch "'T-förmige' Mitarbeiter-Qualifikation" ist ein Team von Spezialisten geführt von eine/n Generalist*in gemeint.;false
+Durch "'T-förmige' Mitarbeiter-Qualifikation" ist gefragt, dass man Spezialist in 1-2 Fachgebieten sei, aber auch Generalist genug, um andere Fachgebieter zu verstehen.;true
+Ein Team ist eine Gruppe von Individuen, die wechselseitig voneinander unabhängig sind, und für das Erreichen enes Ziels verantwortlich sind.;false
+In der Teamentwicklungsphase "Forming" bestehen schon akzeptierte "Spielregeln".;false
+In der Teamentwicklungsphase "Forming" beginnen Teammitglieder einander "abzutasten".;true
+In der Teamentwicklungsphase "Forming" werden Rangordnung bestimmt und Grenzen gezogen.;false
+In der Teamentwicklungsphase "Storming" werden Rangordnung bestimmt und Grenzen gezogen.;true
+In der Teamentwicklungsphase "Norming" werden von allen akzeptierte "Spielregeln" erstellt.;true
+In der Teamentwicklungsphase "Performing" wird auf die Arbeit fokussiert. Persönliche Probleme untereinander haben hier Nachrang.;true
+In der Teamentwicklungsphase "Norming" wurde die Rangordnung noch nicht bestimmt.;false
+In der Teamentwicklungsphase "Adjourning" wird das Team aufgelöst und die Mitglieder werden neue Aufgaben/Teams zugeteilt.;true
+Zu oft das Team aufzulösen und zusammenstellen, kann dazu führen, dass Teams nie wirklich in die "Performing" Phase kommen.;true
+In agilen Organisationen arbeitet man oft mit stabilen Projekten mit wechselnden Teams.;false
+Auch stabile Teams gehen durch die "Adjourning" Teamentwicklungsphase, während sie einen neuen Projekt beginnen.;false
+Team-Building ist immer ein Prozess mit einzelner Phasen.;false
+Alle Teammitglieder müssen sich an der Teamentwicklungsmaßnahme beteiligen.;true
+Die Phasen im Team-Building lauten in Reihenfolge: Einleitungsphase, Diagnosephase, Interventionsphase, und Evaluationsphase.;true
+Die Phasen im Team-Building lauten in Reihenfolge: Besprechungsphase, Diagnosephase, Evaluationsphase, und Interventionsphase.;false
+Laut dem Ansatz von Belbin, gibt es drei Kategorien mit je drei Rollen.;true
+Laut dem Ansatz von Belbin, sind die wissensorientierte Rollen die wichtigsten im agilen Team.;false
+Laut dem Ansatz von Belbin, ist die Teamarbeit*in Rolle handlungsorientiert.;false
+Laut dem Ansatz von Belbin, sind die Perfektionist*in und Spezialist*in Rolle in der selben Kategorie.;false
+Laut dem Ansatz von Belbin, sollen alle 10 Rollen im idealen Team gefüllt sein.;false
+Laut dem Ansatz von Belbin, können Teammitglieder mehr als eine Rolle erfüllen.;true
+Laut dem Ansatz von Belbin, kann vorhergesagt werden, welche Rollen für ein Teammitglied nicht geeignet sind.;true
+Teamkultur lässt sich zwar nicht beobachten, aber ändern.;false
+Teamkultur ist ein gemeinsames Gedächtnis.;true
+Das tägliche Verhalten gehört zur obersten Ebene der Teamkultur.;true
+Unausgesprochene Annahmen und Überzeugungen gehören zur mittleren Ebene der Teamkultur.;false
+Praktiken können das bilden einer gesunden Teamkultur unterstützen (z.B. gemeinsames frühstüken).;true
+Mockups können benutzt werden, um Missverständnisse über Features vermieden werden.;true
+Mockups sollen erst nach dem Code erstellt werden.;false
+Mockups sind Illustrierungen von "wesentlichen" Screens einer Software.;true
+Mit "funktionale Anforderungen der Software" sind die Features (Funktionalitäten) zu verstehen.;true
+Qualitätseigenschaften einer Software sind immer messbar.;false
+Eine Software-Anforderung sind Randbedingungen wie zum Beispiel: "Das System muss schnell sein!".;false
+Eine User Story kann nicht-funktionale Anforderungen beinhalten.;true
+Eine User Story muss nicht einen "reason"-Teil beinhalten.;false
+"Steuern" ist ein sachlich orientierter Bereich des Managements.;true
+Für "Steuern" (Management) stehen die Menschen im Mittelpunkt.;false
+"Führen" ist ein sachlich orientierter Bereich des Managements.;false
+Für "Führen" (Leadership) stehen die Menschen im Mittelpunkt.;true
+Für "Führen" (Leadership) stehen Zahlen und Fakten im Mittelpunkt.;false
+Gutes Management braucht sowohl "Steuern" (Management) als auch "Führung" (Leadership).;true
+Mit traditionelle Führung ist direktive Führung zu verstehen.;true
+In nicht-direktive Führung werden Entscheidungen ohne Input des Teams getroffen.;false
+Unter partizipative Führung koordinieren Teammitglieder mit der Führungskraft und miteinander.;true
+In autokratische Führung erfolgt die Ergebniskontrolle durch die Führungskraft.;true
+"Delegating" und "Selling" sind partizipative Führungsstile.;false
+Im transaktionalen Führungsstil gehört Folgendes zur Rolle der Führungskraft: Ziele erklären, inspirieren, Rollen verteilen.;false
+Eine Führungskraft sollte sich entweder für einen transaktionalen oder transformationalen Führungsstil entscheiden und bei den bleiben.;false
+Eine gute Führungskraft beherrscht sowohl den transaktionalen als auch den transformationalen Führungsstil und kann situativ zwischen diesen wechseln.;true
+Im transformationalen Führungsstil inspiriert und betont die Führungskraft Entwicklungspotentiale der Teammitglieder.;true
+Der transformationale Führungsstil beschreibt ein eher sachliches Verhalten zwischen Leitung und Team.;false
+Teamleiter*innen sollen in die tägliche Teamarbeit involviert sein.;true
+Im transaktionalen Führungsstil trägt die Führungskraft nicht die Hauptverantwortung bei Strategie und Organisations.;false
+Die drei Hauptgruppen der Teamleitungsaufgaben lauten: Management, Führung, und Coaching.;true
+Ein Coach beschäftigt sich hauptsächlich mit der Aufgabenverteilung im Team.;false
+Folgendes sind Rollen und Aufgaben der Teamleitung: Darsteller*in, Konfliktmanager*in, Illustrator*in.;false
+Folgendes sind Rollen und Aufgaben der Teamleitung: Moderator*in, Konfliktmanager*in, Verhandlungsführer*in.;true
+Folgendes sind nicht Rollen der Teamleitung: Illustrator*in, Adjourner*in, Teamarbeiter*in.;true
+Ein Coach soll in die tägliche Teamarbeit involviert sein.;false
+Ein Coach soll bei Bedarf bei der Planung, Entscheidungen, und Problemlösungen helfen.;true
+Ein Beispiel für laterale Führung ist ein Gruppensprecher.;true
+Folgende Prinzipien sind notwendig für laterale Führung: Expertenkompetenz, Glaubwürdigkeit, Notwendigkeit, Wertschätzung.;false
+In der agilen Führung steht die Coach-Rolle im Vordergrund.;true
+In der agilen Führung sind die Teams nicht selbstorganisiert, daher gibt es eine Änderung der Führungsaufgaben.;false
+In der agilen Führung ist es die Aufgabe der Führungskraft Teammitglieder zu unterstützen und Struktur zu schaffen.;true
+In der Unfreezing-Phase des 3-Phasen Modells nach Lewin wird die bestehende Situation unverändert beibehalten, ohne Vorbereitungen auf eine geplante Veränderung.;false
+In der Moving-Phase des 3-Phasen Modells nach Lewin wird der Übergang zum neuen Zustand durch Maßnahmen wie Coaching begleitet.;true
+Das Ziel der Freezing-Phase des 3-Phasen Modells nach Lewin ist den veränderten Zustand als "Normalzustand" zu verinnerlichen.;true
+Im "Tal der Tränen" Modell nach Lewin sind folgende Emotionen zu finden: Sorge, Angst, Wut, Neugier.;true
+Im "Tal der Tränen" Modell nach Lewin sind folgende Emotionen zu finden: Schock, Frustration, Zuversicht, Trauer.;true
+Widerstand bei Veränderungen kann passieren, wenn Betroffene Ziele und Hintergründe gut verstanden haben.;false
+Widerstand bei Veränderungen kann passieren, wenn Betroffene keine positive Konsequenz für sich selbst sehen.;true
+Einer der Grundsätze des Widerstands lautet "Es gibt Veränderung ohne Widerstand!".;false
+Nichtbeachtung von Widerstand bei Veränderungen kann zu Blockaden führen.;true
+Die soziokratische Kreisorganisation ist heterarchisch aufgebaut.;false
+In der soziokratischen Kreisorganisation werden Kreise durch Dreiecke dargestellt.;true
+In der Soziokratie spielt Konsent nur eine Rolle im Topkreis (z.B. Aufsichtsrat).;false
+Ein Wert der Soziokratie ist die Gleichwertigkeit aller Beteiligten.;true
+Ein Wert der Soziokratie ist der Subsidiaritätsprinzip: Entscheidungen sollen möglichst von der obersten Ebene ausgehen.;false
+Gehalts-Offenlegung ist eine Beispiel wirtschaftlicher Transparenz in der Soziokratie.;true
+Die Widerstandsabfrage ist eine einfache Technik zur Konsens-Findung.;false
+In der Widerstandsabfrage bewerten Teilnehmer ihren Widerstand gegen eine Situation auf einer Skala zwischen 0 bis 10.;true
+Hinter jedem Konflikt stecken Bedürfnisse, die man zur Seite legen muss, um das Problem zu lösen.;false
+Mediation ist ein Weg mit Konflikten umzugehen. Statt Schuldzuweisung, geht es darum die Wurzel des Problems zu finden.;true
+Zielkonflikte (Qualität vs Kosten) ist eine Konfliktursache auf der Beziehungsebene.;false
+Ein Wertekonflikt entsteht, wenn unterschiedliche persönliche Werte gegeneinander stoßen.;true
+In der Mediation, geht es eine momentane und kurzfristige Lösung zu finden.;false
+Während der Mediation, sollen Mediator*innen sowohl neutral, als auch allparteilich sein.;true
+Im Drama Dreieck, kommunizieren Täter und Opfer direkt ohne Drittperson miteinander.;false
+Die 4 Schritte zur Konfliktklärung lauten: Beobachtung, Gefühl (Ich-Botschaft), Bedürfnis, konkrete Bitte.;true
+Während der Konfliktklärung sollten negative Bewertungen und Ich-Botschaften vermieden werden.;false
+Vor der Mediation in Gruppen/Teams soll ein Vorgespräch geführt werden.;true
+In der zweiten Phase der Mediation in Gruppen, soll nur die "Opfer" Partei ihre Perspektive klar darstellen.;false
+Die "Fishbowl" Mediationstechnik lässt im inneren Kreis einen Freien Stuhl, falls jemand im Außenkreis seine Meinung nicht unterstützt fühlt.;true
+Die "Fishbowl" und "Außenseiter-Ritual" sind Mediationstechniken für die 5. Phase der Mediation in Gruppen.;false
+Feedback kann mit "Rückmeldung einer Person an eine andere über deren Tun und wie dieses wahrgenommen wird." beschrieben werden.;true
+Nicht jede Reaktion geltet als eine Form der Rückmeldung / Feedback.;false
+Korrekt formuliertes Feedback bezieht sich nicht auf die Person an sich.;true
+Feedback ist selten Anlass-, Verhaltens- und Kontext-bezogen.;false
+Ein Ziel des Feedbacks kann das Lernen über die Wirkung des eigenen Verhaltens sein.;true
+Ein Ziel des Feedbacks kann die Schuldzuweisung sein.;false
+Selbstwahrnehmung entspricht immer die Fremdwahrnehmung.;false
+Der Bereich "freien Handelns" des Johari-Fensters ist "mir selbst" und den anderen bekannt.;true
+Der Bereich des "blinden Flecks" des Johari-Fensters ist nur "mir selbst" bekannt.;false
+Heimliche Wünsche und empfindliche Stellen sind beide Teil des "Bereichs des Verbergens".;true
+Der unbewusste Bereich des Johari-Fensters ist nur "mir selbst" nicht bekannt.;false
+Beim Annehmen von Feedback beschreiben die 3 Z: zuhören, zuhören, und zuhören.;true
+Beim Formulieren von Feedback sollten möglichst starke Bewertungen einbegriffen werden.;false
+Vielfalt im Team kann zu breitere Perspektiven führen.;true
+"Diversity" im Team führt zum Verlust des Innovationspotenzials.;false
+"Equity" beschreibt angepasste Unterstützung Benachteiligter, um Chancengerechtigkeit auszugleichen.;true
+"Equality" und "Equity" beschreiben das selbe Konzept in der Teamarbeit.;false
+"Belonging" im Team führt zu erhöhte Motivation und weniger Konflikte.;true
+"Inclusion" führt zu geschwächter Zusammenhalt, aber dafür verbesserte Entscheidungsfindung.;false
+"Ähnlichkeitseffekt" ist ein Beispiel für unbewusste Vorurteile.;true
+Stereotypen stellen Stärken in der Teamarbeit dar.;false
+Das stärken der DEIB (Diversity, Equity, Inclusion, Belonging) Prinzipien schwächt die Teamarbeit.;false
+Falls sich Teammitglieder aus Angst negativer Konsequenzen nicht äußern, ist das ein Zeichen an Mangel an Psychological Safety.;true
+Reflexion ist eine gute Strategie um unbewusste Vorurteile zu vermeiden.;true
+Retrospektiven sind nur als Werkzeug bei Problemen im oder nach einem Projekt einzusetzen.;false
+Eine gute Kommunikationsbasis ist eine Grundlage für erfolgreiche Retrospektiven.;true
+Retrospektiven sorgen für eine gute Moderation und benötigen wenig Zeit.;false
+Die erste Phase der Retrospektive nach Klaus Leopold beschreibt genau welche Themen im Fokus stehen.;true
+In der zweiten Phase der Retrospektive nach Klaus Leopold werden Fakten und Bewertungen gesammelt.;false
+In der zweiten Phase der Retrospektive nach Klaus Leopold werden keine Lösungsansätze gesammelt.;true
+Das Ziel der vierten Phase der Retrospektive nach Klaus Leopold werden Schuldige gefunden / beschrieben.;false
+Die der vierten Phase der Retrospektive nach Klaus Leopold ist der Fokus Probleme zu verstehen, ohne Lösungsansätze anzubieten.;true
+Erst in der sechsten Phase der Retrospektive nach Klaus Leopold werden Lösungen vorgeschlagen und zukünftige Schritte beschlossen.;false
+Die sechste Phase der Retrospektive nach Klaus Leopold ist ein Abschluss des Meetings inklusive individuelles Feedbacks.;true
+Reflexionen haben nicht das lösungsorientierte Denken als Ziel.;false
+Die Selbstreflexion und Fremdreflexion gelten beide als Reflexionstechniken.;true

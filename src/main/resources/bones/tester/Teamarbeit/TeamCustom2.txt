@@ -1,0 +1,33 @@
+Mockups können benutzt werden, um Missverständnisse über Features vermieden werden.;true
+Mockups sollen erst nach dem Code erstellt werden.;false
+Mockups sind Illustrierungen von "wesentlichen" Screens einer Software.;true
+Mit "funktionale Anforderungen der Software" sind die Features (Funktionalitäten) zu verstehen.;true
+Qualitätseigenschaften einer Software sind immer messbar.;false
+Eine Software-Anforderung sind Randbedingungen wie zum Beispiel: "Das System muss schnell sein!".;false
+Eine User Story kann nicht-funktionale Anforderungen beinhalten.;true
+Eine User Story muss nicht einen "reason"-Teil beinhalten.;false
+"Steuern" ist ein sachlich orientierter Bereich des Managements.;true
+Für "Steuern" (Management) stehen die Menschen im Mittelpunkt.;false
+"Führen" ist ein sachlich orientierter Bereich des Managements.;false
+Für "Führen" (Leadership) stehen die Menschen im Mittelpunkt.;true
+Für "Führen" (Leadership) stehen Zahlen und Fakten im Mittelpunkt.;false
+Gutes Management braucht sowohl "Steuern" (Management) als auch "Führung" (Leadership).;true
+Mit traditionelle Führung ist direktive Führung zu verstehen.;true
+In nicht-direktive Führung werden Entscheidungen ohne Input des Teams getroffen.;false
+Unter partizipative Führung koordinieren Teammitglieder mit der Führungskraft und miteinander.;true
+In autokratische Führung erfolgt die Ergebniskontrolle durch die Führungskraft.;true
+"Delegating" und "Selling" sind partizipative Führungsstile.;false
+Im transaktionalen Führungsstil gehört Folgendes zur Rolle der Führungskraft: Ziele erklären, inspirieren, Rollen verteilen.;false
+Eine Führungskraft sollte sich entweder für einen transaktionalen oder transformationalen Führungsstil entscheiden und bei den bleiben.;false
+Eine gute Führungskraft beherrscht sowohl den transaktionalen als auch den transformationalen Führungsstil und kann situativ zwischen diesen wechseln.;true
+Im transformationalen Führungsstil inspiriert und betont die Führungskraft Entwicklungspotentiale der Teammitglieder.;true
+Der transformationale Führungsstil beschreibt ein eher sachliches Verhalten zwischen Leitung und Team.;false
+Teamleiter*innen sollen in die tägliche Teamarbeit involviert sein.;true
+Im transaktionalen Führungsstil trägt die Führungskraft nicht die Hauptverantwortung bei Strategie und Organisations.;false
+Die drei Hauptgruppen der Teamleitungsaufgaben lauten: Management, Führung, und Coaching.;true
+Ein Coach beschäftigt sich hauptsächlich mit der Aufgabenverteilung im Team.;false
+Folgendes sind Rollen und Aufgaben der Teamleitung: Darsteller*in, Konfliktmanager*in, Illustrator*in.;false
+Folgendes sind Rollen und Aufgaben der Teamleitung: Moderator*in, Konfliktmanager*in, Verhandlungsführer*in.;true
+Folgendes sind nicht Rollen der Teamleitung: Illustrator*in, Adjourner*in, Teamarbeiter*in.;true
+Ein Coach soll in die tägliche Teamarbeit involviert sein.;false
+Ein Coach soll bei Bedarf bei der Planung, Entscheidungen, und Problemlösungen helfen.;true
