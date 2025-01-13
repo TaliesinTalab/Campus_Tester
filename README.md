@@ -7,7 +7,7 @@ While everyone is welcome to use this however they want, including editing it, I
 As a note, some of the questions included are in German. Cut me some slack if you find some errors, I'm not a native speaker.
 ***
 ## How to Use
-The simplest way to use this application is to clone or download the contents of this repository. I personally used IntelliJ Idea to write and run it. Simply open IntelliJ and run the application via Gradle.
+The simplest way to use this application is to clone or download the contents of this repository. I personally used IntelliJ Idea to write and run it. Simply open IntelliJ and run the application via Gradle. Note that you might need to have installed a JavaFX SDK to run this. I recommend to use version 23.0.1, but I can also confirm that it works with version 17.0.6. I suggest you try the version you have installed, and if you encounter any errors, handle them accordingly.
 
 Once started, you should pick a course from the top-menu (e.g. "DigiCom Tests"). After starting the test, pressing the "_skip_" button will skip the question. Note that this will be counted the same as having answered the question wrong.
 
