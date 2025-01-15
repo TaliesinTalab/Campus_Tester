@@ -115,14 +115,17 @@ public class Controller {
     @FXML
     private void toggleShowCorrectAnswer() {
         showCorrectAnswer = !showCorrectAnswer;
+        answerText.setText("Show correct answer set to: " + showCorrectAnswer);
     }
     @FXML
     private void toggleShuffleQuestions() {
         shuffleQuestions = !shuffleQuestions;
+        answerText.setText("Shuffle questions set to: " + shuffleQuestions);
     }
     @FXML
     private void toggleCorrectMistakes() {
         correctMistakes = !correctMistakes;
+        answerText.setText("Correct mistakes set to: " + correctMistakes);
     }
     @FXML
     private void shutDown() {
@@ -201,7 +204,7 @@ public class Controller {
     private void showMistakes() {
         if (!correctMistakes) return;
         if (mistakes.isEmpty()) {
-            questionText.setText("No mistakes made.");
+            questionText.setText("No mistakes made. Good job buddy :]");
             return;
         }
         if (currentQuestionIndex >= mistakes.size()) {
@@ -212,7 +215,7 @@ public class Controller {
             else showSecondMistakes();
         }
         Question question = mistakes.get(currentQuestionIndex);
-        questionText.setText("Mistake:\n" + question.getText() + "\nCorrect answer: " + question.isAnswer());
+        questionText.setText("Mistake:\n" + question.getText());
     }
     private void showSecondMistakes() {
         currentQuestionIndex = 0;

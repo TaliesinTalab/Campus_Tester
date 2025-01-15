@@ -9,8 +9,8 @@ Retrospektiven sorgen für eine gute Moderation und benötigen wenig Zeit.;false
 Die erste Phase der Retrospektive nach Klaus Leopold beschreibt genau welche Themen im Fokus stehen.;true
 In der zweiten Phase der Retrospektive nach Klaus Leopold werden Fakten und Bewertungen gesammelt.;false
 In der zweiten Phase der Retrospektive nach Klaus Leopold werden keine Lösungsansätze gesammelt.;true
-Das Ziel der vierten Phase der Retrospektive nach Klaus Leopold werden Schuldige gefunden / beschrieben.;false
-Die der vierten Phase der Retrospektive nach Klaus Leopold ist der Fokus Probleme zu verstehen, ohne Lösungsansätze anzubieten.;true
+Das Ziel der vierten Phase der Retrospektive nach Klaus Leopold ist es Schuldige zu finden / beschreiben.;false
+In der vierten Phase der Retrospektive nach Klaus Leopold ist der Fokus Probleme zu verstehen, ohne Lösungsansätze anzubieten.;true
 Erst in der sechsten Phase der Retrospektive nach Klaus Leopold werden Lösungen vorgeschlagen und zukünftige Schritte beschlossen.;false
 Die sechste Phase der Retrospektive nach Klaus Leopold ist ein Abschluss des Meetings inklusive individuelles Feedbacks.;true
 Reflexionen haben nicht das lösungsorientierte Denken als Ziel.;false

@@ -24,6 +24,6 @@ Hinter jedem Konflikt stecken Bedürfnisse, die man zur Seite legen muss, um das
 Mediation ist ein Weg mit Konflikten umzugehen. Statt Schuldzuweisung, geht es darum die Wurzel des Problems zu finden.;true
 Zielkonflikte (Qualität vs Kosten) ist eine Konfliktursache auf der Beziehungsebene.;false
 Ein Wertekonflikt entsteht, wenn unterschiedliche persönliche Werte gegeneinander stoßen.;true
-In der Mediation, geht es eine momentane und kurzfristige Lösung zu finden.;false
+In der Mediation, geht es darum eine momentane und kurzfristige Lösung zu finden.;false
 Während der Mediation, sollen Mediator*innen sowohl neutral, als auch allparteilich sein.;true
 Im Drama Dreieck, kommunizieren Täter und Opfer direkt ohne Drittperson miteinander.;false

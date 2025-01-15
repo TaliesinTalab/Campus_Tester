@@ -10,16 +10,16 @@ Korrekt formuliertes Feedback bezieht sich nicht auf die Person an sich.;true
 Feedback ist selten Anlass-, Verhaltens- und Kontext-bezogen.;false
 Ein Ziel des Feedbacks kann das Lernen über die Wirkung des eigenen Verhaltens sein.;true
 Ein Ziel des Feedbacks kann die Schuldzuweisung sein.;false
-Selbstwahrnehmung entspricht immer die Fremdwahrnehmung.;false
+Selbstwahrnehmung entspricht immer der Fremdwahrnehmung.;false
 Der Bereich "freien Handelns" des Johari-Fensters ist "mir selbst" und den anderen bekannt.;true
 Der Bereich des "blinden Flecks" des Johari-Fensters ist nur "mir selbst" bekannt.;false
 Heimliche Wünsche und empfindliche Stellen sind beide Teil des "Bereichs des Verbergens".;true
 Der unbewusste Bereich des Johari-Fensters ist nur "mir selbst" nicht bekannt.;false
-Beim Annehmen von Feedback beschreiben die 3 Z: zuhören, zuhören, und zuhören.;true
+Beim Annehmen von Feedback beschreiben die 3 'Z's: zuhören, zuhören, und zuhören.;true
 Beim Formulieren von Feedback sollten möglichst starke Bewertungen einbegriffen werden.;false
-Vielfalt im Team kann zu breitere Perspektiven führen.;true
+Vielfalt im Team kann zu breiteren Perspektiven führen.;true
 "Diversity" im Team führt zum Verlust des Innovationspotenzials.;false
 "Equity" beschreibt angepasste Unterstützung Benachteiligter, um Chancengerechtigkeit auszugleichen.;true
 "Equality" und "Equity" beschreiben das selbe Konzept in der Teamarbeit.;false
 "Belonging" im Team führt zu erhöhte Motivation und weniger Konflikte.;true
-"Inclusion" führt zu geschwächter Zusammenhalt, aber dafür verbesserte Entscheidungsfindung.;false
+"Inclusion" führt zu ein geschwächten Zusammenhaltsgefühl, aber dafür verbesserte Entscheidungsfindung.;false
