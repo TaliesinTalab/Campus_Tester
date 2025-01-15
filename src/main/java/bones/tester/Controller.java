@@ -24,7 +24,11 @@ public class Controller {
     private Label currentQuestion;
     private boolean showCorrectAnswer = true;
     private boolean shuffleQuestions = true;
+    private boolean correctMistakes = true;
+    private boolean testState = true; // true for testing, false for mistake correction
     private List<Question> questions = new ArrayList<>();
+    private List<Question> mistakes = new ArrayList<>();
+    private List<Question> secondMistakes = new ArrayList<>();
     private int currentQuestionIndex = 0;
     private int score = 0;
 
@@ -117,6 +121,10 @@ public class Controller {
         shuffleQuestions = !shuffleQuestions;
     }
     @FXML
+    private void toggleCorrectMistakes() {
+        correctMistakes = !correctMistakes;
+    }
+    @FXML
     private void shutDown() {
         Platform.exit();
         System.exit(0);
@@ -131,9 +139,11 @@ public class Controller {
     }
     @FXML
     private void nextButtonClick() {
-        if (currentQuestionIndex < questions.size()) {
-            currentQuestionIndex++;
-            showQuestion();
+        List <Question> tempQuestions = new ArrayList<>();
+        if (testState) tempQuestions.addAll(questions);
+        else tempQuestions.addAll(mistakes);
+        if (currentQuestionIndex < tempQuestions.size()) {
+            checkAnswer(!tempQuestions.get(currentQuestionIndex).isAnswer());
             if (showCorrectAnswer) {answerText.setText("Last question was skipped.");}
             if (!showCorrectAnswer) answerText.setText("");
         }
@@ -143,7 +153,11 @@ public class Controller {
         currentQuestionIndex = 0;
         score = 0;
         questions = new ArrayList<>();
+        mistakes = new ArrayList<>();
+        secondMistakes = new ArrayList<>();
         answerText.setText("");
+        testState = true;
+
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(
                 Objects.requireNonNull(getClass().getResourceAsStream(fileName + ".txt"))))) {
             String line;
@@ -166,35 +180,70 @@ public class Controller {
     }
     private void showQuestion() {
         if (questions.isEmpty()) {
-            questionText.setText("No questions available.");
+            questionText.setText("Question file is empty.");
             currentScore.setText("0/0");
             return;
         }
         if (currentQuestionIndex >= questions.size()) {
-            questionText.setText("All questions answered.");
+            if (correctMistakes) {
+            currentQuestionIndex = 0;
+            testState = false;
+            showMistakes();
+            }
             return;
         }
+
         Question question = questions.get(currentQuestionIndex);
         questionText.setText(question.getText());
         currentQuestion.setText((currentQuestionIndex + 1) + "/" + questions.size());
         updateScore();
     }
+    private void showMistakes() {
+        if (!correctMistakes) return;
+        if (mistakes.isEmpty()) {
+            questionText.setText("No mistakes made.");
+            return;
+        }
+        if (currentQuestionIndex >= mistakes.size()) {
+            if (secondMistakes.isEmpty()) {
+                questionText.setText("No more questions.");
+                return;
+            }
+            else showSecondMistakes();
+        }
+        Question question = mistakes.get(currentQuestionIndex);
+        questionText.setText("Mistake:\n" + question.getText() + "\nCorrect answer: " + question.isAnswer());
+    }
+    private void showSecondMistakes() {
+        currentQuestionIndex = 0;
+        mistakes = new ArrayList<>();
+        mistakes.addAll(secondMistakes);
+        secondMistakes = new ArrayList<>();
+        showMistakes();
+    }
     private void checkAnswer(boolean answer) {
-        if (currentQuestionIndex >= questions.size()) {
+        if (currentQuestionIndex >= questions.size() || (currentQuestionIndex >= mistakes.size() && !testState ||
+                (!testState && !correctMistakes))) {
             questionText.setText("No more questions.");
             return;
         }
-        Question currentQuestion = questions.get(currentQuestionIndex);
-        if (currentQuestion.isAnswer() == answer) {score++;}
+
+        Question currentQuestion = testState ? questions.get(currentQuestionIndex) : mistakes.get(currentQuestionIndex);
+
+        if (currentQuestion.isAnswer() == answer) score++;
+        else if (mistakes.contains(currentQuestion)) secondMistakes.add(currentQuestion);
+        else mistakes.add(currentQuestion);
+
         if (showCorrectAnswer) {
             answerText.setText(
                 "Previous question: " + currentQuestion.getText() +
                 "\nYour last answer: " + answer + ".\n" +
                 "Correct answer: " + currentQuestion.isAnswer() + ".");}
-        if (!showCorrectAnswer) answerText.setText("");
+        else answerText.setText("");
         currentQuestionIndex++;
         updateScore();
-        showQuestion();
+        if (testState) showQuestion();
+        else if (correctMistakes) showMistakes();
     }
     private void updateScore() {
         currentScore.setText(score + "/" + questions.size());

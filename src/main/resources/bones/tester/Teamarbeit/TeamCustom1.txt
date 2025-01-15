@@ -23,7 +23,7 @@ Laut dem Ansatz von Belbin, sind die Perfektionist*in und Spezialist*in Rolle in
 Laut dem Ansatz von Belbin, sollen alle 10 Rollen im idealen Team gefüllt sein.;false
 Laut dem Ansatz von Belbin, können Teammitglieder mehr als eine Rolle erfüllen.;true
 Laut dem Ansatz von Belbin, kann vorhergesagt werden, welche Rollen für ein Teammitglied nicht geeignet sind.;true
-Teamkultur lässt sich zwar nicht beobachten, aber ändern.;false
+Teamkultur lässt sich nicht ändern.;false
 Teamkultur ist ein gemeinsames Gedächtnis.;true
 Das tägliche Verhalten gehört zur obersten Ebene der Teamkultur.;true
 Unausgesprochene Annahmen und Überzeugungen gehören zur mittleren Ebene der Teamkultur.;false
